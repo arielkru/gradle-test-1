@@ -1,0 +1,3 @@
+rootProject.name = 'log4shell-vulnerable-app'
+
+include 'subproject-1'
